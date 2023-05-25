@@ -9,7 +9,7 @@
   <tr>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/768px-React-icon.svg.png?20220125121207 1.5x" width="48" height="48" alt="React" />
+        <img src="./img/React-icon.svg.png" width="48" height="48" alt="React" />
       </a>
       <br>React
     </td>
@@ -67,7 +67,7 @@
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech" >
-        <img src="https://plugins.jetbrains.com/files/21029/291764/icon/pluginIcon.png" width="48" height="48" alt="Grafana" />
+        <img src="./img/chatgpt.png" width="48" height="48" alt="Grafana" />
       </a>
       <br>ChatGPT
     </td>
@@ -106,7 +106,7 @@
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech" >
-        <img src="https://assets.stickpng.com/images/62a765b6bd73a4af5c5d4fbb.png" width="48" height="48" alt="Grafana" />
+        <img src="./img/jest.png" width="48" height="48" alt="Grafana" />
       </a>
       <br>Jest
     </td>
