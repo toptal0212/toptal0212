@@ -1,56 +1,150 @@
-<p align="center">
-  <a href="https://www.yushi.dev/" target="_blank" rel="noreferrer"><img src="https://miro.medium.com/v2/resize:fit:700/1*b29pJKZqp6Jxb3rd9QlJiw.png" alt="my banner"></a>
-</p>
+<h1 align="left" id="macropower-title">:wave: Hello there! I'm Murayama Akira</h1>
 
-<h3 align="center">
-Hi there, I'm <a href="" target="_blank" rel="noreferrer">PROLOVE</a> 👋
-</h3>
 
-<h2 align="center">
-I'm a Fullstack developer!
-</h2> 
+<h2 align="left" id="macropower-tech">Favorite Web Tech</h2>
 
-I love the entire process of developing creative websites. I love the challenge of finding caches and spending time to meet new people. Learning how people hide things and where people are likely to look.
-<!-- 
-### 🤝 Connect with me:
+> Tools, languages, and other things that I like to work with.
 
-<a href="https://www.linkedin.com/in/yushi95/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
-<a href="https://instagram.com/yushi.95"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Yu Shi | Instagram" width="21px"/></a>
-<a href="https://yushi95.medium.com/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/medium.svg" alt="Yu Shi | Medium" width="21px"/></a>
-</br>
-- 💬 If you have any question/feedback, please do not hesitate to reach out to me! -->
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/768px-React-icon.svg.png?20220125121207 1.5x" width="48" height="48" alt="React" />
+      </a>
+      <br>React
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://static-00.iconduck.com/assets.00/brand-nextjs-icon-512x512-iz9ba3mc.png" width="48" height="48" alt="Next" />
+      </a>
+      <br>Next
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://vuejs.org/images/logo.png" width="48" height="48" alt="Jsonnet" />
+      </a>
+      <br>Vue
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://nuxt.com/assets/design-kit/logo/icon-green.png" width="48" height="48" alt="TypeScript" />
+      </a>
+      <br>Nuxt
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech" >
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png" width="48" height="48" alt="Kubernetes" />
+      </a>
+      <br>Angular
+    </td>
+    <td align="center" width="96"> 
+      <a href="#macropower-tech" >
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1969px-Laravel.svg.png" width="48" height="48" alt="Docker" />
+      </a>
+      <br>Laravel
+    </td>
+    <td align="center"  width="96">
+      <a href="#macropower-tech">
+        <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_django_icon_130645.png" width="48" height="48" alt="Debian" />
+      </a>
+      <br>Django
+    </td>
+  </tr>
+</table>
 
-## 🔭 I'm currently working on
 
-- blockchain company
+<h2 align="left" id="macropower-tech">Other Tech</h2>
 
-## 🌱 I'm currently learning
+> Tools, languages, and other things that I like to work with.
 
-- 
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href="#macropower-tech" >
+        <img src="https://www.datocms-assets.com/45470/1631026680-logo-react-native.png" width="48" height="48" alt="Grafana" />
+      </a>
+      <br>ReactNative
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech" >
+        <img src="https://plugins.jetbrains.com/files/21029/291764/icon/pluginIcon.png" width="48" height="48" alt="Grafana" />
+      </a>
+      <br>ChatGPT
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech" >
+        <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png" width="48" height="48" alt="Grafana" />
+      </a>
+      <br>Selenium
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech" >
+        <img src="https://brandslogos.com/wp-content/uploads/images/large/blockchain-logo.png" width="48" height="48" alt="Grafana" />
+      </a>
+      <br>Blockchain
+    </td>
+  </tr>
+</table>
 
-## 💼 Technical Skills
+<h2 align="left" id="macropower-tech">Testing & Version Management</h2>
 
-![React](https://camo.githubusercontent.com/48d099290b4cb2d7937bcd96e8497cf1845b54a810a6432c70cf944b60b40c77/68747470733a2f2f7261776769742e636f6d2f676f72616e67616a69632f72656163742d69636f6e732f6d61737465722f72656163742d69636f6e732e737667)
-![Vue](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-![Next](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![NodeJS](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![TypeScript](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+> Tools that I like to work with.
 
-</br>
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href="#macropower-tech" >
+        <img src="https://seeklogo.com/images/J/jira-logo-FD39F795A7-seeklogo.com.png" width="48" height="48" alt="Grafana" />
+      </a>
+      <br>Jira
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech" >
+        <img src="https://user-images.githubusercontent.com/72696535/226140405-3bd31f1e-8cbb-4506-99db-1f0abce7c3fe.png" width="48" height="48" alt="Grafana" />
+      </a>
+      <br>Github
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech" >
+        <img src="https://assets.stickpng.com/images/62a765b6bd73a4af5c5d4fbb.png" width="48" height="48" alt="Grafana" />
+      </a>
+      <br>Jest
+    </td>
+  </tr>
+</table>
 
-![Laravel](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Django](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
-![ReactNative](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
+<h2 align="left">Coding Activity</h2>
 
-</br>
+> Total logged time since 2020-07-19. Updated every 1 hour. [(Learn how this works)](https://macropower.readthedocs.io/en/latest/#dynamic-ascii-graph)
 
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
-![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+<!-- prettier-ignore-start -->
+<!-- START_SECTION:ascii_graph -->
+
+```
+  1021.2 hr  ┤                                                                                           ╭─────── 
+  1018.9 hr  ┤                                                                         ╭─────────────────╯        
+  1016.7 hr  ┤                                                                        ╭╯                          
+  1014.5 hr  ┤                                                                      ╭─╯                           
+  1012.3 hr  ┤                                                          ╭───────────╯                             
+  1010.0 hr  ┤                                                         ╭╯                                         
+  1007.8 hr  ┤                                                      ╭──╯                                          
+  1005.6 hr  ┤                                                  ╭───╯                                             
+  1003.4 hr  ┤                                           ╭──────╯                                                 
+  1001.1 hr  ┤                                         ╭─╯                                                        
+   998.9 hr  ┤                                   ╭─────╯                                                          
+   996.7 hr  ┤                     ╭─────────────╯                                                                
+   994.5 hr  ┼─────────────────────╯                                                                              
+             ┼─────────────┬─────────────┬─────────────┬─────────────┬─────────────┬─────────────┬─────────────┤ 
+            -7d           -6d           -5d           -4d           -3d           -2d           -1d           now
+```
+
+<!-- END_SECTION:ascii_graph -->
+<!-- prettier-ignore-end -->
+
+<!-- links -->
+
+[84.51°]: https://github.com/8451 "84.51° Github Home"
+[issues page]: https://github.com/MacroPower/MacroPower/issues "MacroPower/issues"
+[linkedin]: https://www.linkedin.com/in/colvinjm "Jacob Colvin LinkedIn"
+[homelab]: https://github.com/MacroPower/homelab "MacroPower/homelab"
+[blog]: https://jacobcolvin.com/posts/ "My Blog"

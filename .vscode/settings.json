@@ -1,0 +1,14 @@
+{
+  "cSpell.words": [
+    "Colvin",
+    "Homelabbing",
+    "Jsonnet",
+    "Versatilist",
+    "macropower",
+    "redhat"
+  ],
+  "editor.renderWhitespace": "all",
+  "editor.renderControlCharacters": true,
+  "files.eol": "\n",
+  "editor.guides.indentation": true
+}
