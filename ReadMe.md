@@ -1,4 +1,4 @@
-<h1 align="left" id="macropower-title">:wave: Hello there! I'm Murayama Akira</h1>
+<h1 align="left" id="macropower-title">:wave: Hello there!</h1>
 
 
 <h2 align="left" id="macropower-tech">Favorite Web Tech</h2>
